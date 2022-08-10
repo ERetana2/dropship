@@ -13,3 +13,7 @@ npm run dev
 ## Sanity
 Items are created/updated via schemas in json format. View [sanity_dropship/schemas](./sanity_dropship/schemas/)
 - Note: Newly created items should be appended to [schema.js](./sanity_dropship/schemas/schema.js)
+
+
+### Resources
+ Based on youtube video of [Build and Deploy a Modern Full Stack ECommerce React Application with Stripe](https://www.youtube.com/watch?v=4mOkFXyxfsU&t=1479s). Current time: 37mins
