@@ -16,4 +16,4 @@ Items are created/updated via schemas in json format. View [sanity_dropship/sche
 
 
 ### Resources
- Based on youtube video of [Build and Deploy a Modern Full Stack ECommerce React Application with Stripe](https://www.youtube.com/watch?v=4mOkFXyxfsU&t=1479s). Current time: 37mins
+ Based on youtube video of [Build and Deploy a Modern Full Stack ECommerce React Application with Stripe](https://www.youtube.com/watch?v=4mOkFXyxfsU&t=1479s). Current time: 48mins
